@@ -7,12 +7,317 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "Over the course of the last academic year, Spectator’s photojournalists captured Columbia’s campus as the University redefined itself amid tension and federal scrutiny."
+          },
+          {
+            "type": "text",
+            "value": "A fifth president in four years. Faculty lined outside of the campus gates, closed to the public for the third consecutive year. Students rallying in support of academic freedom and against Immigration and Customs Enforcement on campus."
+          },
+          {
+            "type": "text",
+            "value": "Spectator invites you to reflect on the 2025-26 academic year with some of the strongest visual pieces from its photojournalists."
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/MUKHDE3IQ5C5VGBSRTUTL3NPTU.jpg",
+              "caption": "Columbia’s first-ever<a href=\"https://www.columbiaspectator.com/arts-and-culture/2025/09/21/tote-bags-and-tampons-columbia-students-hold-performative-male-contest/\"> </a><a href=\"https://www.columbiaspectator.com/arts-and-culture/2025/09/21/tote-bags-and-tampons-columbia-students-hold-performative-male-contest/\">performative male contest</a>, hosted by Hassan Idris, CC ’29, brought together a sea of students with tote bags and matcha whisks at the ready.",
+              "credit": "Esmeralda Paredes."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/IJVXCRDMONDQ5KRN3JS22MEGSA.jpg",
+              "caption": "Raising Cane’s<a href=\"https://www.columbiaspectator.com/arts-and-culture/2025/09/10/one-love-raising-canes-opens-new-location-in-morningside-heights/\"> </a><a href=\"https://www.columbiaspectator.com/arts-and-culture/2025/09/10/one-love-raising-canes-opens-new-location-in-morningside-heights/\">entered</a> Columbia’s local food scene, eliciting excitement from students and community members alike.",
+              "credit": "Esmeralda Paredes."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/TDFIHMRNBVACPOY3YV6BOFAUHU.jpg",
+              "caption": "Manhattan’s Community Board 9 oversees Morningside Heights, Manhattanville, and Hamilton Heights. CB9 has<a href=\"https://www.columbiaspectator.com/city-news/2025/08/23/welcome-to-the-neighborhood-inside-community-board-9-and-columbias-role-in-west-harlem/\"> </a><a href=\"https://www.columbiaspectator.com/city-news/2025/08/23/welcome-to-the-neighborhood-inside-community-board-9-and-columbias-role-in-west-harlem/\">grown</a> increasingly critical of Columbia’s closed gates.",
+              "credit": "Tianqi Wang."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/BF3O6TI3YFAZNIKHK7STYAAOMI.jpg",
+              "caption": "The Institute for the Study of Sexuality and Gender<a href=\"https://www.columbiaspectator.com/arts-and-culture/2025/09/28/institute-for-the-study-of-sexuality-and-gender-hosts-drag-ball/\"> </a><a href=\"https://www.columbiaspectator.com/arts-and-culture/2025/09/28/institute-for-the-study-of-sexuality-and-gender-hosts-drag-ball/\">hosted</a> its first-ever drag ball in the Italian Academy’s Teatro.",
+              "credit": "Esmeralda Paredes."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/QKYWCKKQ6NDMXF63G2SKPIXD4Y.jpg",
+              "caption": "Faculty members<a href=\"https://www.columbiaspectator.com/news/2025/10/03/ahead-of-hearing-mohsen-mahdawi-gs-25-sipa-27-and-mahmoud-khalil-sipa-24-attend-silent-vigil/\"> </a><a href=\"https://www.columbiaspectator.com/news/2025/10/03/ahead-of-hearing-mohsen-mahdawi-gs-25-sipa-27-and-mahmoud-khalil-sipa-24-attend-silent-vigil/\">held</a> a “silent vigil” for Mohsen Mahdawi, GS ’25, SIPA ’27, and Mahmoud Khalil, SIPA ’24, outside the Broadway and 116th Street gates ahead of Mahdawi’s October immigration-related court hearing.",
+              "credit": "Stella Ragas."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/6MNAZS5QH5DYLOJY43L6NKO52E.jpg",
+              "caption": "Football<a href=\"https://www.columbiaspectator.com/sports/2025/09/27/football-secures-first-victory-of-the-season-over-georgetown/\"> </a><a href=\"https://www.columbiaspectator.com/sports/2025/09/27/football-secures-first-victory-of-the-season-over-georgetown/\">brought home</a> a win against Georgetown University during its first home game of the season.",
+              "credit": "Giada Robinson."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/L6WYO7U4XJC2ZASJZF2RIU7JCQ.jpg",
+              "caption": "Student Workers of Columbia-United Auto Workers held a picket on campus while negotiations with the University persisted. Rules Administrator Gregory Wawro sent out<a href=\"https://www.columbiaspectator.com/news/2025/11/26/columbia-sends-disciplinary-letters-to-at-least-20-swc-uaw-union-members-for-october-picket-union-says/\"> </a><a href=\"https://www.columbiaspectator.com/news/2025/11/26/columbia-sends-disciplinary-letters-to-at-least-20-swc-uaw-union-members-for-october-picket-union-says/\">20</a> disciplinary letters in late November following the picket.",
+              "credit": "Stella Ragas."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/7SAMYSLIJ5B3FFKW7C45UI3XVU.jpg",
+              "caption": "Homecoming 2025 brought a sea of celebrating students and a 35-21<a href=\"https://www.columbiaspectator.com/sports/2025/10/29/in-focus-columbia-celebrates-homecoming-as-football-falls-to-penn/\"> </a><a href=\"https://www.columbiaspectator.com/sports/2025/10/29/in-focus-columbia-celebrates-homecoming-as-football-falls-to-penn/\">defeat</a> to the University of Pennsylvania’s Quakers.",
+              "credit": "Giada Robinson."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/I52W3KYZVFDONGJRO5AFVITJFQ.JPG",
+              "caption": "Ijoya, Columbia’s African dance team,<a href=\"https://www.columbiaspectator.com/arts-and-culture/2025/11/25/uniting-africa-ijoya-hosts-second-annual-showcase-x-legacy/\"> </a><a href=\"https://www.columbiaspectator.com/arts-and-culture/2025/11/25/uniting-africa-ijoya-hosts-second-annual-showcase-x-legacy/\">hosted</a> its second annual showcase, “X: Legacy.” The showcase featured performances from Columbia’s hip-hop group Raw Elementz and the University of Pennsylvania’s African dance team, West African Vibe.",
+              "credit": "Audrea Chen."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/DZZKN6YDWVHENFZKYM3APH7UDQ.jpg",
+              "caption": "Columbia students gathered for the annual Tree Lighting ceremony. Outside of the gates, students<a href=\"https://www.columbiaspectator.com/news/2025/12/21/student-groups-host-rally-outside-columbia-gates-during-annual-tree-lighting-ceremony/\"> </a><a href=\"https://www.columbiaspectator.com/news/2025/12/21/student-groups-host-rally-outside-columbia-gates-during-annual-tree-lighting-ceremony/\">protested</a> the exclusion of the Morningside Heights community from the ceremony as Columbia’s gates remained closed for the 2025-2026 academic year.",
+              "credit": "Marcus Bui."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/AHYL7ALVVVC5XKKNYT3V6F6X3Y.jpg",
+              "caption": "Students returned from winter break to a snowy campus, with the first Monday of the spring semester having been<a href=\"https://www.columbiaspectator.com/news/2026/01/25/barnard-columbia-cancel-monday-in-person-classes-due-to-snowstorm-blanketing-new-york-city/\"> </a><a href=\"https://www.columbiaspectator.com/news/2026/01/25/barnard-columbia-cancel-monday-in-person-classes-due-to-snowstorm-blanketing-new-york-city/\">moved</a> online.",
+              "credit": "Jackson Dilks."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/MBROXLWRMBEMVA5QC2RMAWD4SU.jpg",
+              "caption": "Broadway and 114th Street, covered in snow.",
+              "credit": "Tianqi Wang."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/URZQDIPCLZHYNNPGN752BGIPDM.jpg",
+              "caption": "Women’s swim and dive faced off against Cornell but were quashed in a 197-103 defeat. The Lions went on to<a href=\"https://www.columbiaspectator.com/sports/2026/02/26/womens-swimming-and-diving-closes-season-with-seventh-place-finish-at-ivy-league-tournament/\"> </a><a href=\"https://www.columbiaspectator.com/sports/2026/02/26/womens-swimming-and-diving-closes-season-with-seventh-place-finish-at-ivy-league-tournament/\">place</a> seventh in the Ivy League championship.",
+              "credit": "Audrea Chen."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/CYYJFXC5H5GNFOROL3224GPC7I.JPG",
+              "caption": "Nurses<a href=\"https://www.columbiaspectator.com/city-news/2026/01/17/mount-sinai-morningside-hospital-nurses-join-citywide-strike-over-benefits-cuts-workplace-violence/\"> </a><a href=\"https://www.columbiaspectator.com/city-news/2026/01/17/mount-sinai-morningside-hospital-nurses-join-citywide-strike-over-benefits-cuts-workplace-violence/\">gathered</a> outside of Mount Sinai Morningside hospital in support of a citywide strike over benefit cuts. The strike<a href=\"https://www.columbiaspectator.com/city-news/2026/02/20/nurses-reach-contract-agreement-return-to-work-at-mount-sinai-morningside-after-33-days-on-the-picket-line/\"> </a><a href=\"https://www.columbiaspectator.com/city-news/2026/02/20/nurses-reach-contract-agreement-return-to-work-at-mount-sinai-morningside-after-33-days-on-the-picket-line/\">lasted</a> one month before a contract was signed.",
+              "credit": "Audrea Chen."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/FA6FIW6VZNHKBHLLM7M5DYRHPQ.jpg",
+              "caption": "Jennifer Mnookin, former chancellor of the University of Wisconsin-Madison, was unanimously<a href=\"https://www.columbiaspectator.com/news/2026/01/25/columbia-selects-university-of-wisconsin-madison-chancellor-jennifer-mnookin-as-next-university-president-according-to-reports/\"> </a><a href=\"https://www.columbiaspectator.com/news/2026/01/25/columbia-selects-university-of-wisconsin-madison-chancellor-jennifer-mnookin-as-next-university-president-according-to-reports/\">selected</a> by the board of trustees as Columbia’s next permanent University president. She is the University’s fifth president in four years.",
+              "credit": "Audrea Chen."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/3AD36EEVDRE7LEKDNVMBMKLPP4.jpg",
+              "caption": "Students, faculty members, and community members came together to<a href=\"https://www.columbiaspectator.com/news/2026/02/05/ice-off-campus-students-faculty-and-community-members-protest-against-immigration-and-customs-enforcement-outside-campus-gates/\"> </a><a href=\"https://www.columbiaspectator.com/news/2026/02/05/ice-off-campus-students-faculty-and-community-members-protest-against-immigration-and-customs-enforcement-outside-campus-gates/\">protest</a> ICE outside of Columbia’s gates amid a surge in nationwide operations.",
+              "credit": "Zohar Ford."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/VZGXQNDDEVGUDHCWWYCD6TCQBU.JPG",
+              "caption": "Survivors of former Columbia OB-GYN Robert Hadden’s abuse gathered outside of the Earl Hall gates to<a href=\"https://www.columbiaspectator.com/news/2026/03/13/a-slap-in-the-face-hadden-survivors-elected-officials-students-and-faculty-raise-concerns-over-integrity-of-independent-report/\"> </a><a href=\"https://www.columbiaspectator.com/news/2026/03/13/a-slap-in-the-face-hadden-survivors-elected-officials-students-and-faculty-raise-concerns-over-integrity-of-independent-report/\">protest</a> the 156-page independent report into the doctor’s abuse,<a href=\"https://www.columbiaspectator.com/news/2026/03/10/columbia-releases-report-on-institutional-failures-enabling-haddens-abuse-nearly-two-and-a-half-years-after-launch/\"> </a><a href=\"https://www.columbiaspectator.com/news/2026/03/10/columbia-releases-report-on-institutional-failures-enabling-haddens-abuse-nearly-two-and-a-half-years-after-launch/\">released</a> by the University in March, two and a half years after it was commissioned.",
+              "credit": "Audrea Chen."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/KACBYMSRLBEP7N26CDAKMTRIKA.jpg",
+              "caption": "New York Police Department officers<a href=\"https://www.columbiaspectator.com/news/2026/02/05/nypd-arrests-12-including-students-and-faculty-at-anti-ice-demonstration-outside-campus-gates/\"> </a><a href=\"https://www.columbiaspectator.com/news/2026/02/05/nypd-arrests-12-including-students-and-faculty-at-anti-ice-demonstration-outside-campus-gates/\">arrested</a> 12 individuals, including faculty members and students, who blocked the road during an “ICE off campus” rally.",
+              "credit": "Eliza Lamster."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/SE5W3ZWZXRED3CWGG6LBVB5APE.jpg",
+              "caption": "A model walks down the runway during Fig Magazine’s inaugural fashion show, “Memory of Light.” Student models donned clothes<a href=\"https://www.columbiaspectator.com/arts-and-culture/2026/02/17/take-a-bite-fig-magazine-launches-its-inaugural-fashion-show-memory-of-light/\"> </a><a href=\"https://www.columbiaspectator.com/arts-and-culture/2026/02/17/take-a-bite-fig-magazine-launches-its-inaugural-fashion-show-memory-of-light/\">designed</a> by students from Columbia, Parsons School of Design, and the Fashion Institute of Technology.",
+              "credit": "Giada Robinson."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/QPMJD4C5PFCMXOQD6NSRMDPUVY.jpg",
+              "caption": "Men’s wrestling hosted the 2026 Ivy League tournament and<a href=\"https://www.columbiaspectator.com/sports/2026/03/11/three-champions-and-seven-tickets-to-ncaas-highlight-solid-day-for-wrestling-at-ivy-league-tournament/\"> </a><a href=\"https://www.columbiaspectator.com/sports/2026/03/11/three-champions-and-seven-tickets-to-ncaas-highlight-solid-day-for-wrestling-at-ivy-league-tournament/\">placed</a> second. The Light Blue had an<a href=\"https://www.columbiaspectator.com/sports/2026/04/06/mens-wrestling-ends-ivy-league-championship-season-on-a-high-at-ncaa-championships/\"> </a><a href=\"https://www.columbiaspectator.com/sports/2026/04/06/mens-wrestling-ends-ivy-league-championship-season-on-a-high-at-ncaa-championships/\">undefeated</a> season, and head coach Donny Pritzlaff was named NCAA Division I men’s national coach of the year.",
+              "credit": "Jackson Dilks."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/CVELHBWGTZDPXBM7K3HWJ4E4LU.jpg",
+              "caption": "SWC-UAW organized a protest around the Sundial,<a href=\"https://www.columbiaspectator.com/news/2026/02/25/dozens-demand-protections-for-international-student-workers-at-sundial-protest-amid-stalled-union-negotiations/\"> </a><a href=\"https://www.columbiaspectator.com/news/2026/02/25/dozens-demand-protections-for-international-student-workers-at-sundial-protest-amid-stalled-union-negotiations/\">demanding</a> stronger protections for international students and calling for the University to declare itself a sanctuary campus.",
+              "credit": "Jackson Dilks."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/OWMVR2RJLBCKVLB7DUJQOTDK3I.jpg",
+              "caption": "Michael Zheng, CC ’26, in a<a href=\"https://www.columbiaspectator.com/sports/2026/03/05/mens-tennis-rolls-past-pepperdine/\"> </a><a href=\"https://www.columbiaspectator.com/sports/2026/03/05/mens-tennis-rolls-past-pepperdine/\">game</a> against Pepperdine University. Men’s tennis<a href=\"https://www.columbiaspectator.com/sports/2026/04/27/mens-tennis-suffers-first-conference-loss-against-cornell-but-clinches-share-of-ivy-league-title/\"> </a><a href=\"https://www.columbiaspectator.com/sports/2026/04/27/mens-tennis-suffers-first-conference-loss-against-cornell-but-clinches-share-of-ivy-league-title/\">ended</a> its season 6-1, winning its third consecutive Ivy League title. Zheng, Columbia’s breakout tennis star,<a href=\"https://www.columbiaspectator.com/sports/2026/07/02/still-dancing-michael-zheng-cc-26-advances-to-third-round-of-wimbledon-main-draw/\"> </a><a href=\"https://www.columbiaspectator.com/sports/2026/07/02/still-dancing-michael-zheng-cc-26-advances-to-third-round-of-wimbledon-main-draw/\">made it</a> to the third round of the Wimbledon Championships.",
+              "credit": "Jackson Dilks."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/6SAPBUASJREJDC5DVKDOBBIFAI.jpg",
+              "caption": "Fliss Henderson dominates in a game against Brown University, where women’s basketball<a href=\"https://www.columbiaspectator.com/sports/2026/01/19/womens-basketball-beats-brown-improves-to-3-1-in-conference-play/\"> </a><a href=\"https://www.columbiaspectator.com/sports/2026/01/19/womens-basketball-beats-brown-improves-to-3-1-in-conference-play/\">won</a> 68-52. The Lions<a href=\"https://www.columbiaspectator.com/sports/2026/03/13/womens-basketball-loses-67-65-to-harvard-in-overtime-in-ivy-madness-semifinal/\"> </a><a href=\"https://www.columbiaspectator.com/sports/2026/03/13/womens-basketball-loses-67-65-to-harvard-in-overtime-in-ivy-madness-semifinal/\">fell</a> to Harvard in the Ivy Madness semifinal but<a href=\"https://www.columbiaspectator.com/sports/2026/04/01/womens-basketball-wins-the-wbit-capping-a-dominant-tournament-run/\"> </a><a href=\"https://www.columbiaspectator.com/sports/2026/04/01/womens-basketball-wins-the-wbit-capping-a-dominant-tournament-run/\">won</a> the Women’s Basketball Invitational Tournament. The 2025-26 season was the<a href=\"https://www.columbiaspectator.com/sports/2026/03/13/womens-basketball-loses-67-65-to-harvard-in-overtime-in-ivy-madness-semifinal/\"> </a><a href=\"https://www.columbiaspectator.com/sports/2026/03/13/womens-basketball-loses-67-65-to-harvard-in-overtime-in-ivy-madness-semifinal/\">first since 2023</a> that the team did not make it to the Ivy Madness final.",
+              "credit": "Jackson Dilks."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/LAWQSAYWHZCM5PUQNZVCWBGVXY.jpg",
+              "caption": "Bacchanal 2026 was headlined by rapper Waka Flocka Flame, after a<a href=\"https://www.columbiaspectator.com/arts-and-culture/2026/04/08/despite-last-minute-cancellation-bacchanal-2026-ends-on-a-high-note/\"> </a><a href=\"https://www.columbiaspectator.com/arts-and-culture/2026/04/08/despite-last-minute-cancellation-bacchanal-2026-ends-on-a-high-note/\">last-minute cancellation</a> the night before by English rapper Fake Mink.",
+              "credit": "Logan Fencer."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/3PCSJ4AZMZCEHIYYKW6KHDE7QA.jpg",
+              "caption": "Dressed to the nines, Columbia students flocked to fraternity townhouses to celebrate Bacchanal. Spectator<a href=\"https://www.columbiaspectator.com/arts-and-culture/2026/04/08/bacch-and-better-than-ever-student-style-shines-at-columbias-62nd-bacchanal/\"> </a><a href=\"https://www.columbiaspectator.com/arts-and-culture/2026/04/08/bacch-and-better-than-ever-student-style-shines-at-columbias-62nd-bacchanal/\">documented</a> student style throughout the day.",
+              "credit": "London Connolly."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/IHEZJKCATRA4RIWC6XKEBMNW5U.jpg",
+              "caption": "Students enjoy the sunny lawns during Bacchanal 2026.",
+              "credit": "Salem Maru."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/7XLBQI7EBZCNFJ6B7T7CT5VHEE.jpg",
+              "caption": "The Riverside Park goats made a special appearance at the Riverside Park Conservatory’s <a href=\"https://www.instagram.com/p/DXNNjW1FIe0/?utm_source=ig_web_copy_link&igsi=MzRlODBiNWFlZA==\">launch celebration</a> of its 7.5-acre forest restoration project along Riverside Drive.",
+              "credit": "Sofia Wadler."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/SRN3WVM2Y5CORC7X42V5UM277A.jpg",
+              "caption": "Pro-Palestinian demonstrators<a href=\"https://www.columbiaspectator.com/news/2026/03/30/protesters-interrupt-students-supporting-israels-event-featuring-israeli-military-reservist-and-soldier/\"> </a><a href=\"https://www.columbiaspectator.com/news/2026/03/30/protesters-interrupt-students-supporting-israels-event-featuring-israeli-military-reservist-and-soldier/\">interrupted</a> a panel hosted by Columbia’s chapter of Students Supporting Israel that featured two members of the Israeli military. Two demonstrators—one who directly interrupted the event and another who held a banner outside the event in Lerner Hall—were escorted out the building, joining a 30-person demonstration outside of Lerner.",
+              "credit": "Tianqi Wang."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/UD3EEJARUBH4XME4XTKB4PHHNE.jpg",
+              "caption": "Students<a href=\"https://www.columbiaspectator.com/news/2026/05/18/no-ai-voice-at-graduation-students-and-faculty-protest-columbias-use-of-ai-for-2026-commencement/\"> </a><a href=\"https://www.columbiaspectator.com/news/2026/05/18/no-ai-voice-at-graduation-students-and-faculty-protest-columbias-use-of-ai-for-2026-commencement/\">protested</a> the use of an AI voice to read out graduates’ names across the University’s graduation ceremonies.",
+              "credit": "Zohar Ford."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/M7ZU25N4YVHXDCUECBVGH22DZY.jpg",
+              "caption": "Spring, on campus.",
+              "credit": "Ming Yuan."
+            }
+          },
+          {
+            "type": "text",
+            "value": "As students new and old trickle back onto campus, Spectator’s photojournalists are excited to welcome another school year, and will continue being your lens on the ground."
+          },
+          {
+            "type": "text",
+            "value": "<i>Photo Editor Audrea Chen can be contacted at </i><a href=\"mailto:audrea.chen@columbiaspectator.com\"><i>audrea.chen@columbiaspectator.com</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy News Editor Pedro Meerbaum can be contacted at </i><a href=\"mailto:pedro.meerbaum@columbiaspectator.com\"><i>pedro.meerbaum@columbiaspectator.com</i></a><i>. Follow him on X </i><a href=\"https://x.com/PedroMeerbaum\"><i>@PedroMeerbaum</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter</i></b></a><b><i> and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>. </i></b>"
+          }
+        ],
+        "headline": "Year in review: 2025-26 in photos",
+        "dek": "Look back at the last academic year through the lens of Spectator’s photojournalists.",
+        "date": "August 30, 2026",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/audrea-chen/\">Audrea Chen</a> and <a href=\"https://www.columbiaspectator.com/contributors/pedro-meerbaum/\">Pedro Meerbaum</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ZCNUHSLMXBEWHLD7VTMNX6YCHI.jpg",
+        "cover_caption": "Dusk settling over campus. Zohar Ford / Columbia Daily Spectator.",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1n_QZW7R3ck70ql9FVrN-VEL2Es1W58c_PK6gBZ7-IoA/edit?tab=t.0"
       }
     }
   }
